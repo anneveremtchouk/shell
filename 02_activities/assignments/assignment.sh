@@ -18,7 +18,7 @@ wget -O rawdata.zip https://github.com/UofT-DSI/shell/raw/refs/heads/main/02_act
 unzip rawdata.zip
 
 ###########################################
-# Complete assignment here
+# Complete assignment here - Anna's version
 
 # 1. Create a directory named data
 mkdir data
